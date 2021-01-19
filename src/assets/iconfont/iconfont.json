@@ -1,0 +1,30 @@
+{
+  "id": "2312405",
+  "name": "OGG监控平台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11010067",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "19249723",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    },
+    {
+      "icon_id": "19249724",
+      "name": "zizhufuwu16x16",
+      "font_class": "zizhufuwu16x16",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    }
+  ]
+}
